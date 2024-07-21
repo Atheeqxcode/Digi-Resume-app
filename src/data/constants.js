@@ -13,7 +13,7 @@ export const Bio = {
     "https://firebasestorage.googleapis.com/v0/b/storage-e1b82.appspot.com/o/Resume%20IBM.pdf?alt=media&token=30648693-7174-47d0-9264-347e429510ba",
   linkedin: "https://www.linkedin.com/in/hemantrajmnnit20234070/",
   twitter: "https://x.com/HEMANTR62340858",
-  insta: "https://www.instagram.com/hemantraj_2214/",
+  insta: "https://www.instagram.com/hemantraj_2005/",
   facebook: "https://www.facebook.com/profile.php?id=100078707586854&mibextid=ZbWKwL",
 };
 
