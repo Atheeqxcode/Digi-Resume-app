@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am ECE student at MNNIT Allahabad, I want explore as many things I can, therefore I am very interested in electronics, especially in embedded system, VLSI design & robotics. I also like coding, because it requires logic development and I love problem solving",
+    "As an ECE student at MNNIT Allahabad,on a mission to explore everything under the sun (professors ne mana kiya, but who listens?). I'm super into electronics, especially embedded systems, VLSI design, and robotics—basically, if it goes beep or blink(beep ya blink hota hai toh maja sa aata hai). Coding is my jam because it's like solving puzzles, but with less missing pieces and more coffee (and sometimes chai).",
   github: "https://github.com/hemantraj-2005",
   resume:
     "https://firebasestorage.googleapis.com/v0/b/storage-e1b82.appspot.com/o/Resume%20IBM.pdf?alt=media&token=30648693-7174-47d0-9264-347e429510ba",

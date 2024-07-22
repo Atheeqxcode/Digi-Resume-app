@@ -232,7 +232,7 @@ const Hero = () => {
             <HeroLeftContainer>
               <motion.div {...headTextAnimation}>
                 <Title>
-                  Hi, Myself <br /> {Bio.name}
+                  Hi, I'm <br /> {Bio.name}
                 </Title>
                 <TextLoop>
                   I am
