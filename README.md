@@ -1,74 +1,21 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Atheeq Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the portfolio website of Atheeq! This website showcases Atheeq's skills, projects, experience, testimonials, and provides a way to contact him. The website is fully responsive, built using React.js, Tailwind CSS, and Framer Motion to create smooth animations.
 
-## Available Scripts
+## 🏠 Home
+The home page introduces visitors to Atheeq. It provides a brief overview and invites users to explore further.
 
-In the project directory, you can run:
+## ℹ️ About Me
+The about me section offers detailed information about Atheeq, including his background, education, skills, and interests.
 
-### `npm start`
+## 🚀 Skills
+In the skills section, visitors can see a comprehensive list of Atheeq's skills and expertise. These may include programming languages, tools, technologies, and soft skills.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💼 Projects
+Explore Atheeq's projects in this section. Each project is accompanied by a description, images, and links to view the project live or its source code on GitHub.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎓 Experience
+Atheeq's professional experience is highlighted here. Visitors can learn about his past roles, responsibilities, achievements, and contributions.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Digi-Resume-app
->>>>>>> dbd0409e4de2b3affd6e8a6c85abd0329080581b
+## 📧 Contact
+Connect with Atheeq through the contact section. Visitors can send him a message, inquire about collaborations, or reach out for any other inquiries.
