@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import {
-  FacebookRounded,
+
   Instagram,
   LinkedIn,
   Twitter,
@@ -88,7 +88,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Hemant Raj</Logo>
+        <Logo>Atheeq's Corner</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -97,11 +97,11 @@ const Footer = () => {
           <NavLink href="#Education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target="display">
+          {/* <SocialMediaIcon href={Bio.facebook} target="display">
             <ColoredIcon color="#3b5998" hoverColor="#8b9dc3">
               <FacebookRounded />
             </ColoredIcon>
-          </SocialMediaIcon>
+          </SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.twitter} target="display">
             <ColoredIcon color="#00acee" hoverColor="#87CEEB">
               <Twitter />
@@ -118,7 +118,7 @@ const Footer = () => {
             </ColoredIcon>
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Hemant Raj. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 Atheeq - All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

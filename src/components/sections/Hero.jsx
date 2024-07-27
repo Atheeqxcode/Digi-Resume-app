@@ -256,15 +256,15 @@ const Hero = () => {
                 <ResumeButton href={Bio.resume} target="_blank">
                   Check Resume
                 </ResumeButton>
-                <ResumeButton href="https://codolio.com/profile/HemantRaj_2005" target="_blank">
+                {/* <ResumeButton href="https://codolio.com/profile/atheeq" target="_blank">
                   Check Codolio Profile
-                </ResumeButton>
+                </ResumeButton> */}
               </ButtonContainer>
             </HeroLeftContainer>
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>
                 <Tilt>
-                  <Img src={HeroImg} alt="Hemant Raj" />
+                  <Img src={HeroImg} alt="Atheeq" />
                 </Tilt>
               </motion.div>
             </HeroRightContainer>

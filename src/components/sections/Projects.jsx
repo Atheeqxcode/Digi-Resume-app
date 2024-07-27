@@ -101,7 +101,7 @@ const Projects = () => {
             marginBottom: "40px",
           }}
         >
-          I have worked on very few projects, many more projects are planned for future, so stay tuned
+       Below are my few projects, many more projects are planned for future, so stay tuned !
         </Desc>
 
         <ToggleButtonGroup>
@@ -116,15 +116,15 @@ const Projects = () => {
             active={toggle === "web app"}
             onClick={() => setToggle("web app")}
           >
-            WEB APP"S
+            WEB APP'S
           </ToggleButton>
-          <Divider />
-          <ToggleButton
+          {/* <Divider /> */}
+          {/* <ToggleButton
             active={toggle === "machine learning"}
             onClick={() => setToggle("machine learning")}
           >
             MACHINE LEARNING
-          </ToggleButton>
+          </ToggleButton> */}
         </ToggleButtonGroup>
 
         <CardContainer>

@@ -136,7 +136,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">Hemant Raj</NavLogo>
+        <NavLogo to="/"> Atheeq's Corner </NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />

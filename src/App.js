@@ -43,11 +43,12 @@ function App() {
             <Hero />
             <Wrapper>
               <Skills />
-              <Experience />
+              <Education />
             </Wrapper>
             <Projects />
             <Wrapper>
-              <Education />
+              
+              <Experience />
               <Contact />
             </Wrapper>
             <Footer />

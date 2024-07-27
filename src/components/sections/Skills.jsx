@@ -125,7 +125,7 @@ const Skills = () => {
             marginBottom: "40px",
           }}
         >
-          Here are some of my skills that I have developed since I came to college
+          Here are some of my skills mentioned below
         </Desc>
 
         <SkillsContainer>
