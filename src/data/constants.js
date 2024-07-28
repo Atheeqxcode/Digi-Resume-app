@@ -14,7 +14,7 @@ export const Bio = {
 `,
     github: "https://github.com/Atheeqxcode",
   resume:
-    "#",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Atheeq_CV-24.pdf?alt=media&token=c97dea1b-c93f-4d9d-8471-1e5030d2f5df",
   linkedin: "https://www.linkedin.com/in/atheeq-zee8/",
   twitter: "https://x.com/rehman_atheeq",
   insta: "https://www.instagram.com/_disaster_017/",
