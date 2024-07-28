@@ -7,7 +7,11 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I'm Atheeq ur Rehman, Computer Science Engineering student. I'm passionate about web development, particularly the MERN stack. I'm eager to learn and contribute to innovative web applications.",
+  `
+  I am a Computer Science Engineering student with a strong foundation in web development using the MERN stack (MongoDB, Express.js, React, and Node.js). I have hands-on experience building e-commerce platforms, news/blog applications, and portfolio websites. My proficiency extends to MERN stack technologies like React Hooks and Node.js modules, empowering me to create efficient and scalable web solutions.
+
+
+`,
     github: "https://github.com/Atheeqxcode",
   resume:
     "#",
@@ -264,8 +268,7 @@ export const projects = [
     title: "E-Commerce Website",
     date: "June 2024",
     description:
-      "For admins, the site offers a user-friendly dashboard to manage content, view analytics, review and delete comments, monitor users, remove spammers, and post, edit, or delete blogs. For users, the site is designed for ease of use and aesthetic appeal. You can create your own profile, connect with others, leave comments, and join discussions.",
-    image:
+      "Developed a full-stack e-commerce platform using MERN stack. Features product catalog, user authentication, shopping cart, secure payments, and order management. Demonstrates proficiency in frontend development, backend API development, and database management.",    image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Screenshot_27-7-2024_181214_localhost.jpeg?alt=media&token=b8404041-ecd0-457b-8dcc-8c5443c39640",
     tags: [
       "React Js",

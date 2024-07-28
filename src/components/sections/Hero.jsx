@@ -235,7 +235,7 @@ const Hero = () => {
                   Hi, I'm <br /> {Bio.name}
                 </Title>
                 <TextLoop>
-                  I am
+                  I am a
                   <Span>
                     <Typewriter
                       options={{
