@@ -1,4 +1,7 @@
-# Atheeq Portfolio Website
+# Atheeq Portfolio Website 
+
+Live https://atheeq-portfolio.netlify.app
+
 
 Welcome to the portfolio website of Atheeq! This website showcases Atheeq's skills, projects, experience, testimonials, and provides a way to contact him. The website is fully responsive, built using React.js, Tailwind CSS, and Framer Motion to create smooth animations.
 
