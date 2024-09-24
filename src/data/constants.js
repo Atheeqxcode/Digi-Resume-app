@@ -239,7 +239,7 @@ export const education = [
     school: "Vishvesvaraya Technological University",
     date: " 2021 -  2025",
     grade: "8.7 CGPA",
-    desc: "Currently studying in 3rd Year Cse",
+    desc: "Currently studying in Final Year Cse",
     degree: "Bachelor of Engineering - B.E, Computer Science & Engineering",
   },
   {
