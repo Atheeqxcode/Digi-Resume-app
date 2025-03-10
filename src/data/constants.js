@@ -14,7 +14,7 @@ export const Bio = {
 `,
     github: "https://github.com/Atheeqxcode",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Atheeq_CV-24.pdf?alt=media&token=c97dea1b-c93f-4d9d-8471-1e5030d2f5df",
+    "https://drive.google.com/file/d/1-SsEToQAdp55k0_OUSIMdzeMRUUIHqu-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/atheeq-zee8/",
   twitter: "https://x.com/rehman_atheeq",
   insta: "https://www.instagram.com/_disaster_017/",
@@ -87,16 +87,17 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+   
+  {
+    title: "DevOps",
+    skills: [
+      {
+        name: "AWS",
+        image:
+          "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+      },
     ],
   },
-  // {
-  //   title: "DevOps",
-  //   skills: [
-  //     {
-  //       name: "AWS",
-  //       image:
-  //         "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-  //     },
   //     {
   //       name: "Google Cloud",
   //       image:
@@ -269,7 +270,7 @@ export const projects = [
     date: "June 2024",
     description:
       "Developed a full-stack e-commerce platform using MERN stack. Features product catalog, user authentication, shopping cart, secure payments, and order management. Demonstrates proficiency in frontend development, backend API development, and database management.",    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Screenshot_27-7-2024_181214_localhost.jpeg?alt=media&token=b8404041-ecd0-457b-8dcc-8c5443c39640",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Screenshot_9-8-2024_233749_www.youtube.com.jpeg?alt=media&token=d295e93a-de0a-4740-8530-a1bf1e71b059",
     tags: [
       "React Js",
       "MongoDB",
