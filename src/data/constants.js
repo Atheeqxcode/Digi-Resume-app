@@ -8,8 +8,7 @@ export const Bio = {
   ],
   description:
   `
-  I am a Computer Science Engineering student with a strong foundation in web development using the MERN stack (MongoDB, Express.js, React, and Node.js). I have hands-on experience building e-commerce platforms, news/blog applications, and portfolio websites. My proficiency extends to MERN stack technologies like React Hooks and Node.js modules, empowering me to create efficient and scalable web solutions.
-
+Aspiring Software Developer with a strong interest in Frontend Development using React.js and progressing to full-stack expertise using the MERN stack. Passionate about building high-performance, scalable, and responsive web applications with modern technology stacks like React.js, Next.js, JavaScript, and Tailwind CSS. Skilled in state management (Redux, Context API) and UI performance optimization for seamless user experiences. Familiar with DevOps tools like Docker and Kubernetes, enabling containerized deployments efficiently
 
 `,
     github: "https://github.com/Atheeqxcode",
