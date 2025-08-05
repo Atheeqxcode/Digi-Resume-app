@@ -288,6 +288,27 @@ export const education = [
 ];
 
 export const projects = [
+   {
+    id: 10,
+    title: "QueryPilot-Using NLP and Gen-Ai to Simplify DB Queries",
+    date: "June 2024",
+    description:
+      "Developed a full-stack Ai-Powered Tool to simplify Database Queries Using NLP and Generative AI Using Python(Flask). Demonstrates proficiency in frontend development, backend API development, and database management.",    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Screenshot%202025-08-05%20175125.png?alt=media&token=4657a102-c392-488a-9b00-d68c15a45839",
+    tags: [
+      "ReactJS",
+      "MySql",
+      "Python",
+      "Flask",
+      "Aiven Cloud",
+      // "Vite",
+      "TailwindCSS",
+      "Firebase"
+    ],
+    category: "web app",
+    github: "https://github.com/Atheeqxcode/MERN-Commerce",
+    Live: "https://querypilot-nlp-mysql.onrender.com/",
+  },
   {
     id: 11,
     title: "E-Commerce Website",
@@ -307,7 +328,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Atheeqxcode/MERN-Commerce",
-    // webapp: "https://brain-not-found-blogs.onrender.com/",
+    Live: "https://window-shop-frontend.onrender.com/",
   },
   {
     id: 8,
