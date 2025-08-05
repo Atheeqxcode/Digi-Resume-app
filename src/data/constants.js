@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
   `
-Aspiring Software Developer with a strong interest in Frontend Development using React.js and progressing to full-stack expertise using the MERN stack. Passionate about building high-performance, scalable, and responsive web applications with modern technology stacks like React.js, Next.js, JavaScript, and Tailwind CSS. Skilled in state management (Redux, Context API) and UI performance optimization for seamless user experiences. Familiar with DevOps tools like Docker and Kubernetes, enabling containerized deployments efficiently
+Aspiring Software Developer with a strong interest in Frontend Development using React.js and progressing to full-stack expertise using the MERN stack. Passionate about building high-performance, scalable, and responsive web applications with modern technology stacks like React.js, Next.js, JavaScript, and Tailwind CSS. Skilled in state management and UI performance optimization for seamless user experiences. Familiar with DevOps tools like Docker, enabling containerized deployments efficiently
 
 `,
     github: "https://github.com/Atheeqxcode",
