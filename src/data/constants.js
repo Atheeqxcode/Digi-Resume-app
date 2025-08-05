@@ -97,13 +97,11 @@ export const skills = [
       },
     ],
   },
-  //     {
-  //       name: "Google Cloud",
-  //       image:
-  //         "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
-  //     },
-  //   ],
-  // },
+      {
+        name: "AWS-Services(S3,EC2,IAM)",
+           },
+    ],
+  },
   // {
   //   title: "Machine Learning",
   //   skills: [
@@ -164,11 +162,39 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/mern.png?alt=media&token=cb58cca4-27ca-4c7a-a203-8e40e3a0c830",
+    role: "AI-DevOps Engineering",
+    company: "Rooman Technologies - IBM",
+    date: "2025",
+    desc: "Gained Hands-On Experience in Modern DevOps Tools and Cloud Services like EC2,S3 and IAM ",
+    skills: [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Aws-Services",
+      
+      
+      // "MongoDB",
+      // "Express",
+      // "ReactJS",
+      // "Redux",
+      // "NodeJs",
+      // "Material UI",
+      // "HTML",
+      // "CSS",
+      // "JavaScript",
+      // "Vite",
+      // "emailjs"
+    ],
+    doc: " ",
+  },
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/mern.png?alt=media&token=cb58cca4-27ca-4c7a-a203-8e40e3a0c830",
     role: "Mern Stack Development",
-    company: "MongoDB,Express,React,NodeJS",
+    company: "MongoDB, Express, React ,NodeJS",
     date: "2024",
     desc: "Currently Working on a Mern Stack Project ",
     skills: [
@@ -187,16 +213,16 @@ export const experiences = [
     doc: " ",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/craneslogo.jpg?alt=media&token=a57ad40e-808b-4ae3-8a4b-b044e65c8a7f",
     role: "Java Intern",
-    company: "Cranes Varsity pvt Ltd.",
+    company: "Cranes Varsity Pvt Ltd.",
     date: "2023",
     desc: "For admins, the site offers a user-friendly dashboard to manage Users, view balance, review and delete Statements, monitor users, remove spammers. For users, the site is designed for ease of use and aesthetic appeal. You can create your own profile, Transfer Money, View Banlance in Respective Bank Accounts.",
     skills: [
       "ReactJS",
       // "Redux",
-      "NodeJs",
+      "NodeJS",
       // "Material UI",
       "HTML",
       "CSS",
@@ -210,7 +236,7 @@ export const experiences = [
   },
 
   {
-    id: 2,
+    id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/react-1-logo.png?alt=media&token=06235482-2826-4bfc-a8dd-0981296f72be",
     role: "Front-End Development",
     company: "ReactJS",
@@ -238,9 +264,9 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/HKBK-College-Logo.png?alt=media&token=9cb8764b-eb18-48ba-a97c-02525b32787e",
     school: "Vishvesvaraya Technological University",
     date: " 2021 -  2025",
-    grade: "8.7 CGPA",
-    desc: "Currently studying in Final Year Cse",
-    degree: "Bachelor of Engineering - B.E, Computer Science & Engineering",
+    grade: "8.4 CGPA",
+    desc: "",
+    degree: "Bachelor of Engineering - B.E., Computer Science & Engineering",
   },
   {
     id: 1,
@@ -248,13 +274,13 @@ export const education = [
     school: "CMR National Pu College, Bangalore",
     date: "2019 - 2021",
     grade: "75%",
-    desc: "I completed my class 12th at CMR National Pu College , Bangalore",
+    desc: "I completed my 12th class at CMR National Pu College, Bangalore",
     degree: "XII, Science",
   },
   {
     id: 2,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/florence_1_schools_logo_short.png?alt=media&token=80828348-93f5-425c-8091-65cb3a681d6c",
-    school: "NFPS ,Bangalore",
+    school: "NFPS, Bangalore",
     date: "2018 - 2019",
     grade: "82%",
     desc: "I completed my class 10th at NFPS, Bangalore ",
@@ -268,13 +294,13 @@ export const projects = [
     title: "E-Commerce Website",
     date: "June 2024",
     description:
-      "Developed a full-stack e-commerce platform using MERN stack. Features product catalog, user authentication, shopping cart, secure payments, and order management. Demonstrates proficiency in frontend development, backend API development, and database management.",    image:
+      "Developed a full-stack e-commerce platform using the MERN stack. Features product catalog, user authentication, shopping cart, secure payments, and order management. Demonstrates proficiency in frontend development, backend API development, and database management.",    image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/Screenshot_9-8-2024_233749_www.youtube.com.jpeg?alt=media&token=d295e93a-de0a-4740-8530-a1bf1e71b059",
     tags: [
-      "React Js",
+      "ReactJS",
       "MongoDB",
-      "Node Js",
-      "Express Js",
+      "Node.js",
+      "Express JS",
       "Redux",
       // "Vite",
       "TailwindCSS",
@@ -307,7 +333,7 @@ export const projects = [
     title: "Text Summarizer/editor",
     date: "Apr 2024",
     description:
-      "Text Summarizer/editor is application to connect client, to our experts, who help them in growing thier social media platforms organically. More updates on it's way",
+      "Text Summarizer/editor is an application to connect clients to our experts, who help them in growing their social media platforms organically. More updates on it's way",
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/pic1.jpg?alt=media&token=3a618845-f3af-4967-8bb6-792449a90b21",
     tags: [
