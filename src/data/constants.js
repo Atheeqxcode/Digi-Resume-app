@@ -13,7 +13,7 @@ Aspiring Software Developer with a strong interest in Frontend Development using
 `,
     github: "https://github.com/Atheeqxcode",
   resume:
-    "https://drive.google.com/file/d/1-SsEToQAdp55k0_OUSIMdzeMRUUIHqu-/view?usp=sharing",
+    "https://drive.google.com/file/d/1Kq5MXcIl3LE0TzpJeSXYI9M6LjSsUJDa/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/atheeq-zee8/",
   twitter: "https://x.com/rehman_atheeq",
   insta: "https://www.instagram.com/_disaster_017/",
@@ -25,7 +25,7 @@ export const skills = [
     title: "Frontend",
     skills: [
       {
-        name: "React Js",
+        name: "ReactJs",
         image:
           "https://img.icons8.com/?size=160&id=8g6WJkjf0vaP&format=png",
       },
@@ -68,7 +68,7 @@ export const skills = [
         image: "https://nodejs.org/static/images/logo.svg",
       },
       {
-        name: "Express Js",
+        name: "ExpressJs",
         image:
           "https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png"
       },
@@ -86,18 +86,17 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "DevOps Tools",
+        image: " ",
+      },
    
-  {
-    title: "DevOps",
-    skills: [
+ 
       {
         name: "AWS",
         image:
           "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-      },
-    ],
-  },
-      {
+      
         name: "AWS-Services(S3,EC2,IAM)",
            },
     ],
@@ -164,7 +163,7 @@ export const skills = [
 export const experiences = [
    {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/mern.png?alt=media&token=cb58cca4-27ca-4c7a-a203-8e40e3a0c830",
+    img: "",
     role: "AI-DevOps Engineering",
     company: "Rooman Technologies - IBM",
     date: "2025",
@@ -194,9 +193,9 @@ export const experiences = [
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-atheeq.appspot.com/o/mern.png?alt=media&token=cb58cca4-27ca-4c7a-a203-8e40e3a0c830",
     role: "Mern Stack Development",
-    company: "MongoDB, Express, React ,NodeJS",
+    company: "MongoDB, Express, React, NodeJS",
     date: "2024",
-    desc: "Currently Working on a Mern Stack Project ",
+    desc: "Currently Working on a MERN Stack Project ",
     skills: [
       "MongoDB",
       "Express",
