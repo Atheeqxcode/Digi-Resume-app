@@ -93,11 +93,11 @@ export const skills = [
    
  
       {
-        name: "AWS",
+        name: "AWS-Services(S3,EC2,IAM)",
         image:
           "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
       
-        name: "AWS-Services(S3,EC2,IAM)",
+        
            },
     ],
   },
