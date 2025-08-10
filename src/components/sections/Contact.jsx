@@ -62,7 +62,7 @@ const Contact = () => {
             <Wrapper>
                 <Title>Contact</Title>
                 <Desc style={{ marginBottom: "40px" }}>
-                    Feeling to give me an Internship, then please you're welcome, contact me!!!
+                    Feeling to give me an Opportunity, then please you're welcome, contact me!!!
                 </Desc>
                 <div
                     className="visme_d"
